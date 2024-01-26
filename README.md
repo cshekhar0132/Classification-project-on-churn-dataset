@@ -1,6 +1,6 @@
 # Classification-project-on-churn-dataset
- this is the classification project on churn dataset of telecom industry.
- we use following procedure to do project
+  this is the classification project on churn dataset of telecom industry.
+  we use following procedure to do project
   1.read data
   2.delete unimportant columns from dataset
   3.Missing data treatment
